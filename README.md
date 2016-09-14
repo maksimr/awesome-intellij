@@ -13,3 +13,4 @@ A community driven list of useful Intellij IDEA plugins, libraries and others.
 - [AnyBar](https://github.com/denofevil/AnyBarIdea)
 - [IdeaVim](https://github.com/JetBrains/ideavim)
 - [Key promoter](https://plugins.jetbrains.com/plugin/1003)
+- [FiraCode](https://github.com/tonsky/FiraCode/wiki/Intellij-products-instructions)
