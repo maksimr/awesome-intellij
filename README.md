@@ -14,3 +14,9 @@ A community driven list of useful Intellij IDEA plugins, libraries and others.
 - [IdeaVim](https://github.com/JetBrains/ideavim)
 - [Key promoter](https://plugins.jetbrains.com/plugin/1003)
 - [FiraCode](https://github.com/tonsky/FiraCode/wiki/Intellij-products-instructions)
+
+
+## [Other](#other)
+
+- [Toolbox App](https://blog.jetbrains.com/blog/2016/05/25/introducing-jetbrains-toolbox-app/)
+- [JetBrains Toolbox Chrome Extension](https://chrome.google.com/webstore/detail/jetbrains-toolbox-extensi/offnedcbhjldheanlbojaefbfbllddna?hl=en)
