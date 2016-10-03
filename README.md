@@ -7,17 +7,11 @@ A community driven list of useful Intellij IDEA plugins, libraries and others.
 
 - [Wallabyjs](https://wallabyjs.com/)
 - [Armory](http://www.visprogramming.com/)
-
-
 - [Settings Repository](https://github.com/develar/settings-repository)
 - [AnyBar](https://github.com/denofevil/AnyBarIdea)
 - [Key promoter](https://plugins.jetbrains.com/plugin/1003)
-
-
 - [Material theme](https://github.com/ChrisRM/material-theme-jetbrains)
 - [FiraCode](https://github.com/tonsky/FiraCode/wiki/Intellij-products-instructions)
-
-
 - [IdeaVim](https://github.com/JetBrains/ideavim)
 - [Tab Shifter](https://github.com/dkandalov/tab-shifter)
 - [AceJump](https://github.com/johnlindquist/AceJump)
