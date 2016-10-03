@@ -14,12 +14,11 @@ A community driven list of useful Intellij IDEA plugins, libraries and others.
 - [FiraCode](https://github.com/tonsky/FiraCode/wiki/Intellij-products-instructions)
 - [IdeaVim](https://github.com/JetBrains/ideavim)
 - [Tab Shifter](https://github.com/dkandalov/tab-shifter)
-- [AceJump](https://github.com/johnlindquist/AceJump)
+- [AceJump](https://github.com/johnlindquist/AceJump) - is a plugin for the IntelliJ Platform that lets you jump to any symbol in the editor with just a few keystrokes
 
 
 ## [Other](#other)
 
-- [Toolbox App](https://blog.jetbrains.com/blog/2016/05/25/introducing-jetbrains-toolbox-app/)
-- [JetBrains Toolbox Chrome Extension](https://chrome.google.com/webstore/detail/jetbrains-toolbox-extensi/offnedcbhjldheanlbojaefbfbllddna?hl=en)
-- [Live-plugin](https://github.com/dkandalov/live-plugin)
-  IntelliJ plugin for writing plugins at runtime
+- [Toolbox App](https://blog.jetbrains.com/blog/2016/05/25/introducing-jetbrains-toolbox-app/) - Manage your products and projects in one place
+- [JetBrains Toolbox Chrome Extension](https://chrome.google.com/webstore/detail/jetbrains-toolbox-extensi/offnedcbhjldheanlbojaefbfbllddna?hl=en) - This extension adds link to open project from GitHub in IntelliJ-based IDEs
+- [Live-plugin](https://github.com/dkandalov/live-plugin) - IntelliJ plugin for writing plugins at runtime
