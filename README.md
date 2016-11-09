@@ -15,6 +15,7 @@ A community driven list of useful Intellij IDEA plugins, libraries and others.
 - [IdeaVim](https://github.com/JetBrains/ideavim)
 - [Tab Shifter](https://github.com/dkandalov/tab-shifter)
 - [AceJump](https://github.com/johnlindquist/AceJump) - is a plugin for the IntelliJ Platform that lets you jump to any symbol in the editor with just a few keystrokes
+- [Youtrack](https://github.com/jk1/youtrack-idea-plugin) - Intellij Idea plugin for integration with YouTrack bug tracker
 
 
 ## [Other](#other)
