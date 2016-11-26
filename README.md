@@ -5,7 +5,6 @@ A community driven list of useful Intellij IDEA plugins, libraries and others.
 
 ## [Plugins](#plugins)
 
-- [Wallabyjs](https://wallabyjs.com/)
 - [Armory](http://www.visprogramming.com/)
 - [Settings Repository](https://github.com/develar/settings-repository)
 - [AnyBar](https://github.com/denofevil/AnyBarIdea)
@@ -16,6 +15,17 @@ A community driven list of useful Intellij IDEA plugins, libraries and others.
 - [Tab Shifter](https://github.com/dkandalov/tab-shifter)
 - [AceJump](https://github.com/johnlindquist/AceJump) - is a plugin for the IntelliJ Platform that lets you jump to any symbol in the editor with just a few keystrokes
 - [Youtrack](https://github.com/jk1/youtrack-idea-plugin) - Intellij Idea plugin for integration with YouTrack bug tracker
+
+
+## JavaScript
+
+- [Wallabyjs](https://wallabyjs.com/)
+
+
+## Clojure
+
+- [Clojure-Kit](https://github.com/gregsh/Clojure-Kit)
+- [Cursive](https://cursive-ide.com/)
 
 
 ## [Other](#other)
