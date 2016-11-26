@@ -29,6 +29,10 @@ A community driven list of useful Intellij IDEA plugins, libraries and others.
 - :euro: [Cursive](https://cursive-ide.com/)
 
 
+## [Haskell](#haskell)
+- [intellij-haskforce](https://github.com/carymrobbins/intellij-haskforce)
+
+
 ## [Issue/bug Trackers](#issue-trackers)
 - [Youtrack](https://github.com/jk1/youtrack-idea-plugin) - Intellij Idea plugin for integration with YouTrack bug tracker
 
