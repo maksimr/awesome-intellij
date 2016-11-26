@@ -17,12 +17,12 @@ A community driven list of useful Intellij IDEA plugins, libraries and others.
 - [Youtrack](https://github.com/jk1/youtrack-idea-plugin) - Intellij Idea plugin for integration with YouTrack bug tracker
 
 
-## JavaScript
+## [JavaScript](#javascript)
 
 - [Wallabyjs](https://wallabyjs.com/)
 
 
-## Clojure
+## [Clojure](#clojure)
 
 - [Clojure-Kit](https://github.com/gregsh/Clojure-Kit)
 - [Cursive](https://cursive-ide.com/)
