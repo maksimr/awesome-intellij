@@ -5,7 +5,7 @@ A community driven list of useful Intellij IDEA plugins, libraries and others.
 
 ## [Plugins](#plugins)
 
-- [Armory](http://www.visprogramming.com/)
+- :euro: [Armory](http://www.visprogramming.com/)
 - [Settings Repository](https://github.com/develar/settings-repository)
 - [AnyBar](https://github.com/denofevil/AnyBarIdea)
 - [Key promoter](https://plugins.jetbrains.com/plugin/1003)
@@ -19,13 +19,12 @@ A community driven list of useful Intellij IDEA plugins, libraries and others.
 
 ## [JavaScript](#javascript)
 
-- [Wallabyjs](https://wallabyjs.com/)
-
+- :euro: [Wallabyjs](https://wallabyjs.com/)
 
 ## [Clojure](#clojure)
 
 - [Clojure-Kit](https://github.com/gregsh/Clojure-Kit)
-- [Cursive](https://cursive-ide.com/)
+- :euro: [Cursive](https://cursive-ide.com/)
 
 
 ## [Other](#other)
