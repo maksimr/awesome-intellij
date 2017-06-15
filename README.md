@@ -22,6 +22,7 @@ A community driven list of useful Intellij IDEA plugins, libraries and others.
 
 ## [JavaScript](#javascript)
 - :euro: [Wallabyjs](https://wallabyjs.com/)
+- [Quokka.js](https://github.com/wallabyjs/quokka)
 
 
 ## [Clojure](#clojure)
