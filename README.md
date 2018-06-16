@@ -6,6 +6,7 @@ A community driven list of useful Intellij IDEA plugins, libraries and others.
 ## [Productivity](#productivity)
 - [AnyBar](https://github.com/denofevil/AnyBarIdea)
 - [Key promoter](https://plugins.jetbrains.com/plugin/1003)
+- [Key promoter X](https://plugins.jetbrains.com/plugin/9792-key-promoter-x)
 - [IdeaVim](https://github.com/JetBrains/ideavim)
 - [Tab Shifter](https://github.com/dkandalov/tab-shifter)
 - [AceJump](https://github.com/johnlindquist/AceJump) - is a plugin for the IntelliJ Platform that lets you jump to any symbol in the editor with just a few keystrokes
