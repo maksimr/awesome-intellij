@@ -15,6 +15,8 @@ A community driven list of useful Intellij IDEA plugins, libraries and others.
 - [Material theme](https://github.com/ChrisRM/material-theme-jetbrains)
 - [FiraCode](https://github.com/tonsky/FiraCode/wiki/Intellij-products-instructions)
 - [Rainbow Brackets / Rainbow Parentheses](https://plugins.jetbrains.com/plugin/10080-rainbow-brackets)
+- [Nyan Progress Bar](https://plugins.jetbrains.com/plugin/8575-nyan-progress-bar)
+- [CodeGlance](https://plugins.jetbrains.com/plugin/7275-codeglance)
 
 
 ## [Project Management](#project-management)
