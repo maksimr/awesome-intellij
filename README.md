@@ -11,6 +11,7 @@ A community driven list of useful Intellij IDEA plugins, libraries and others.
 - [Tab Shifter](https://github.com/dkandalov/tab-shifter)
 - [AceJump](https://github.com/johnlindquist/AceJump) - is a plugin for the IntelliJ Platform that lets you jump to any symbol in the editor with just a few keystrokes
 - [AltN8](https://plugins.jetbrains.com/plugin/1475-altn8) - Open Alternate File: i.e. jump from source to test file, maven resource, html file, properties file, etc... configured using regular expressions.
+- [Codota](https://www.codota.com/plugins/) - AI completions for your IDE
 
 
 ## [Appearance](#appearance)
