@@ -13,6 +13,7 @@ A community driven list of useful Intellij IDEA plugins, libraries and others.
 - [AltN8](https://plugins.jetbrains.com/plugin/1475-altn8) - Open Alternate File: i.e. jump from source to test file, maven resource, html file, properties file, etc... configured using regular expressions.
 - [Codota](https://www.codota.com/plugins/) - AI completions for your IDE
 - [Run Configuration as Action](https://plugins.jetbrains.com/plugin/9448-run-configuration-as-action) - Register all run configuration as actions.
+- [Custom Postfix Templates](https://github.com/xylo/intellij-postfix-templates#custom-postfix-templates-for-intellij-idea) - This plugin lets you define your own postfix templates for Java, Scala, Kotlin, and JavaScript.
 
 
 ## [Appearance](#appearance)
