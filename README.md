@@ -14,6 +14,7 @@ A community driven list of useful Intellij IDEA plugins, libraries and others.
 - [Codota](https://www.codota.com/plugins/) - AI completions for your IDE
 - [Run Configuration as Action](https://plugins.jetbrains.com/plugin/9448-run-configuration-as-action) - Register all run configuration as actions.
 - [Custom Postfix Templates](https://github.com/xylo/intellij-postfix-templates#custom-postfix-templates-for-intellij-idea) - This plugin lets you define your own postfix templates for Java, Scala, Kotlin, and JavaScript.
+- [Dash](https://github.com/gdelmas/IntelliJDashPlugin#readme) - A smart and simple plugin that provides keyboard shortcut access for Dash, Velocity or Zeal in IntelliJ IDEA, RubyMine, WebStorm, PhpStorm, PyCharm and Android Studio.
 
 
 ## [Appearance](#appearance)
