@@ -45,6 +45,7 @@ A community driven list of useful Intellij IDEA plugins, libraries and others.
 
 ## [Issue/bug Trackers](#issue-trackers)
 - [Youtrack](https://github.com/jk1/youtrack-idea-plugin) - Intellij Idea plugin for integration with YouTrack bug tracker
+- [CodeStream](https://plugins.jetbrains.com/plugin/12206-codestream) - Helps dev teams discuss, review, and understand code
 
 
 ## [Other](#other)
