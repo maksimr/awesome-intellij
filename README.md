@@ -24,6 +24,7 @@ A community driven list of useful Intellij IDEA plugins, libraries and others.
 - [Nyan Progress Bar](https://plugins.jetbrains.com/plugin/8575-nyan-progress-bar)
 - [CodeGlance](https://plugins.jetbrains.com/plugin/7275-codeglance) - Embeds a code minimap similar to the one found in Sublime into the editor pane
 - [Night Owl theme](https://github.com/xdrop/night-owl-jetbrains)
+- [Alabaster color scheme](https://github.com/tonsky/intellij-alabaster)
 
 ## [Project Management](#project-management)
 - :euro: [Armory](http://www.visprogramming.com/)
