@@ -35,6 +35,7 @@ A community driven list of useful Intellij IDEA plugins, libraries and others.
 ## [JavaScript](#javascript)
 - :euro: [Wallabyjs](https://wallabyjs.com/)
 - [Quokka.js](https://github.com/wallabyjs/quokka)
+- [DeepBugs for IntelliJ](https://github.com/JetBrains-Research/DeepBugsPlugin) - is a pair of plugins for IntelliJ-based IDEs that provide semantics-aware bug detection in Python and JavaScript
 
 
 ## [Clojure](#clojure)
