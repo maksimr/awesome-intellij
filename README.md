@@ -57,6 +57,16 @@ A community driven list of useful Intellij IDEA plugins, libraries and others.
 - [Youtrack](https://github.com/jk1/youtrack-idea-plugin) - Intellij Idea plugin for integration with YouTrack bug tracker
 - [CodeStream](https://plugins.jetbrains.com/plugin/12206-codestream) - Helps dev teams discuss, review, and understand code
 
+## [IntelliJ Plattform](#appearance)
+
+### JetBrains based
+- [IntelliJ IDEA](https://www.jetbrains.com/idea/) and more...
+
+### Third Party
+- [CUBA Studio](https://www.cuba-platform.com/tools/) for [CUBA.Platform](https://www.cuba-platform.com)
+- [Cursive IDE](https://cursive-ide.com/) for Clojure
+- [Android Studio](https://developer.android.com/studio)
+- [Comma IDE](https://commaide.com/) for [Raku](https://www.raku.org/)
 
 ## [Other](#other)
 - [Toolbox App](https://blog.jetbrains.com/blog/2016/05/25/introducing-jetbrains-toolbox-app/) - Manage your products and projects in one place
