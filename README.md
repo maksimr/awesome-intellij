@@ -59,6 +59,7 @@ A community driven list of useful Intellij IDEA plugins, libraries and others.
 ## [IntelliJ Plattform](#appearance)
 
 ### JetBrains based
+- [Projector] - (https://github.com/JetBrains/projector-client/) Projector is a technology to run and access Swing GUI applications remotely. Cloud IDEA
 - [IntelliJ IDEA](https://www.jetbrains.com/idea/) and more...
 
 ### Third Party
