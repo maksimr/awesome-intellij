@@ -5,6 +5,8 @@ A community driven list of useful Intellij IDEA plugins, libraries and others.
 
 ## [Productivity](#productivity)
 - [Code With Me](https://plugins.jetbrains.com/plugin/14896-code-with-me/) - Collaborative development
+- [Projector
+](https://plugins.jetbrains.com/plugin/16015-projector) - Share the IDE window using the Projector server
 - [AnyBar](https://github.com/denofevil/AnyBarIdea)
 - [Key promoter](https://plugins.jetbrains.com/plugin/1003)
 - [Key promoter X](https://plugins.jetbrains.com/plugin/9792-key-promoter-x)
