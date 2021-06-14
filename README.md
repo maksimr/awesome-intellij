@@ -40,6 +40,7 @@ A community driven list of useful Intellij IDEA plugins, libraries and others.
 ## [Project Management](#project-management)
 - :euro: [Armory](http://www.visprogramming.com/)
 - [Settings Repository](https://github.com/JetBrains/intellij-community/tree/master/plugins/settings-repository)
+- [Build Webhook Notifier](https://github.com/hbmartin/intellij-build-webhook-notifier) - Call a webhook on build start, error, and success
 
 ## [JavaScript](#javascript)
 - :euro: [Wallabyjs](https://wallabyjs.com/)
