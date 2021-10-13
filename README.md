@@ -76,3 +76,4 @@ A community driven list of useful Intellij IDEA plugins, libraries and others.
 - [JetBrains Toolbox Chrome Extension](https://chrome.google.com/webstore/detail/jetbrains-toolbox-extensi/offnedcbhjldheanlbojaefbfbllddna?hl=en) - This extension adds link to open project from GitHub in IntelliJ-based IDEs
 - [Live-plugin](https://github.com/dkandalov/live-plugin) - IntelliJ plugin for writing plugins at runtime
 - [Grazie](https://plugins.jetbrains.com/plugin/12175-grazie) - Provides intelligent spelling and grammar checks for text that you write in the IDE.
+- [Grazie Chrome extension](https://chrome.google.com/webstore/detail/grazie/fonaoompfjljjllgccccgjnhnoghohgc) - Intelligent writing companion with thorough grammar checks and helpful suggestions.
