@@ -11,6 +11,7 @@ A community driven list of useful Intellij IDEA plugins, libraries and others.
 - [Key promoter](https://plugins.jetbrains.com/plugin/1003)
 - [Key promoter X](https://plugins.jetbrains.com/plugin/9792-key-promoter-x)
 - [IdeaVim](https://github.com/JetBrains/ideavim)
+- [jGRASP](https://www.jgrasp.org/index.html) - Created to provide software visualizations that work in conjunction with the debugger such as [Control Structure Diagrams](https://www.jgrasp.org/csd.html), [UML Class Diagrams](https://www.jgrasp.org/uml.html) and [Object Viewer](https://www.jgrasp.org/viewers.html).
 - [Tab Shifter](https://github.com/dkandalov/tab-shifter)
 - [AceJump](https://github.com/johnlindquist/AceJump) - is a plugin for the IntelliJ Platform that lets you jump to any symbol in the editor with just a few keystrokes
 - [AltN8](https://plugins.jetbrains.com/plugin/1475-altn8) - Open Alternate File: i.e. jump from source to test file, maven resource, html file, properties file, etc... configured using regular expressions.
