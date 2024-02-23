@@ -79,3 +79,4 @@ A community driven list of useful Intellij IDEA plugins, libraries and others.
 - [Grazie](https://plugins.jetbrains.com/plugin/12175-grazie) - Provides intelligent spelling and grammar checks for text that you write in the IDE.
 - [Grazie Chrome extension](https://chrome.google.com/webstore/detail/grazie/fonaoompfjljjllgccccgjnhnoghohgc) - Intelligent writing companion with thorough grammar checks and helpful suggestions.
 - [Git ToolBox](https://plugins.jetbrains.com/plugin/7499-gittoolbox) - Status display, auto fetch, inline blame annotation, commit dialog completion, behind notifications and more...
+- [Andon4idea](https://github.com/carolosf/andon4idea) - Inform users of build failures in IntelliJ from your own api server.
